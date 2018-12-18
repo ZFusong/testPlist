@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string></string>
+					<string>http://192.168.15.9:8088/static/assets/images/urbanMgt/loginPortrait.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string></string>
+					<string>http://192.168.15.9:8088/static/assets/images/urbanMgt/loginPortrait.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>

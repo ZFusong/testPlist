@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.15.9:5000/static/app/ipa/57x57.jpg</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.15.9:5000/static/app/ipa/512x512.jpg</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
